@@ -11,4 +11,6 @@
 # Light Mode Included
 ![{6957B5D5-5B40-42DB-B1BE-9A705E4E1B3E}](https://github.com/user-attachments/assets/1bd04a61-7093-47bd-9b64-c40d87af7a23)
 
+
+Clean, Minimal And LightWeight Text Editor.
 Ver: SwiftLiteV1
