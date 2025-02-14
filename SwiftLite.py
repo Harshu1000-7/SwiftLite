@@ -11,7 +11,7 @@ root = CTK.CTk()
 root.title('SwiftLite')
 root.geometry('1090x650')
 root.resizable(False, False)
-root.iconbitmap('AppIcon.ico')
+root.iconbitmap('AppIcon.ico')#if the program doesn't Work, Download the Icon, or just delete this line
 
 font1 = ('Helvetica', 25)
 font2 = ('Helvetica', 20)
